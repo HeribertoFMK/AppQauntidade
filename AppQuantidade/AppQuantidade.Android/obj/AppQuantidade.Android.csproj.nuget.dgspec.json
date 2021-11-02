@@ -44,6 +44,10 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "DotLiquid": {
+              "target": "Package",
+              "version": "[2.2.548, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.6.1, )"

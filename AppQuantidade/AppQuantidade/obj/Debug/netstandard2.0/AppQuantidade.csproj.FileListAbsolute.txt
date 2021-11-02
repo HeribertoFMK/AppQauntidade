@@ -2,7 +2,6 @@ C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQua
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\ref\AppQuantidade.dll
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.pdb
-C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.AssemblyReference.cache
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -13,3 +12,4 @@ C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\XamlC.
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
+C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.AssemblyReference.cache

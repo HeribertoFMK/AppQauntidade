@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LMoYRHT4QCQnfQ8GCNPXc/Pq0cxom+1CwuIdxNsovF8R7sySRW2GHzhpBLler6rUUXDQmNEwzZEDARJWprP7mA==",
+  "dgSpecHash": "x0EKtVfD23hBMzqatcUccOFFTLqkofwM47P49PlStHpObBqWcr9Wi+0gUGj+QKVucZ3vFerTuyx58qMmlB7qSw==",
   "success": true,
   "projectFilePath": "C:\\dev\\AppQuantidade\\AppQuantidade\\AppQuantidade.Android\\AppQuantidade.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Heriberto\\.nuget\\packages\\dotliquid\\2.2.548\\dotliquid.2.2.548.nupkg.sha512",
     "C:\\Users\\Heriberto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",

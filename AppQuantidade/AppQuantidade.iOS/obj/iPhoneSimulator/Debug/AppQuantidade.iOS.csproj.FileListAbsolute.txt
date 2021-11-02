@@ -53,6 +53,6 @@ C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\c
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\optimized\
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\AppQuantidade.iOS.csproj.AssemblyReference.cache
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\AppQuantidade.iOS.csproj.CoreCompileInputs.cache
-C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\AppQuantidade.iOS.csproj.CopyComplete
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\AppQuantidade.iOS.exe
 C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\AppQuantidade.iOS.pdb
+C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.iOS\obj\iPhoneSimulator\Debug\AppQuantidade.iOS.csproj.CopyComplete

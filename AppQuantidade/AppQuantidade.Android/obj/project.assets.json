@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v11.0": {
+      "DotLiquid/2.2.548": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/DotLiquid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DotLiquid.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.0/it/DotLiquid.resources.dll": {
+            "locale": "it"
+          }
+        }
+      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -988,6 +1002,28 @@
     }
   },
   "libraries": {
+    "DotLiquid/2.2.548": {
+      "sha512": "LRu6wuPyuGe/4aIilq4g0CMndcVEyAQShtzU2oXDCwz4OTSGPKva4yYkR08Ql6za6b7fFUEdfmMae32Zic6QYA==",
+      "type": "package",
+      "path": "dotliquid/2.2.548",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "dotliquid.2.2.548.nupkg.sha512",
+        "dotliquid.nuspec",
+        "lib/net45/DotLiquid.dll",
+        "lib/net45/DotLiquid.xml",
+        "lib/net45/it/DotLiquid.resources.dll",
+        "lib/netstandard1.3/DotLiquid.dll",
+        "lib/netstandard1.3/DotLiquid.xml",
+        "lib/netstandard1.3/it/DotLiquid.resources.dll",
+        "lib/netstandard2.0/DotLiquid.dll",
+        "lib/netstandard2.0/DotLiquid.xml",
+        "lib/netstandard2.0/it/DotLiquid.resources.dll",
+        "readme.txt"
+      ]
+    },
     "System.Numerics.Vectors/4.5.0": {
       "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
@@ -2137,6 +2173,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
       "AppQuantidade >= 1.0.0",
+      "DotLiquid >= 2.2.548",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
     ]
@@ -2186,6 +2223,10 @@
     "frameworks": {
       "monoandroid11.0": {
         "dependencies": {
+          "DotLiquid": {
+            "target": "Package",
+            "version": "[2.2.548, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.6.1, )"

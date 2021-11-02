@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "AppQuantidade.Android.dll" comes first in this list. */
 		"AppQuantidade.Android.dll",
 		"AppQuantidade.dll",
+		"DotLiquid.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
