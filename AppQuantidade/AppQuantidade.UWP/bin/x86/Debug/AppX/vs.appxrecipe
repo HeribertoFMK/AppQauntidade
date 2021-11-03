@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>F4AD7CAB37C1B78025BBB7A1C8C54EFB6647DF62D0BFE2952C96CE199C1D0C1E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>86C559C02707C8797213F2CDA31BE53A5D53E8AC14D1E9D4E042405E70757692</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c15ed588-6473-4e98-9fe6-1756e3af7392_1.0.0.0_x86__sacqfn6jaq77c</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c15ed588-6473-4e98-9fe6-1756e3af7392_sacqfn6jaq77c!App</RegisteredUserModeAppID>
     <RegisteredPackageID>c15ed588-6473-4e98-9fe6-1756e3af7392</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:56:33.719</Modified>
+      <Modified>2021-11-03T12:41:53.959</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\bin\x86\Debug\AppQuantidade.UWP.exe">
       <PackagePath>entrypoint\AppQuantidade.UWP.exe</PackagePath>
-      <Modified>2021-11-01T08:56:28.138</Modified>
+      <Modified>2021-11-03T12:41:50.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -68,7 +68,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll">
       <PackagePath>AppQuantidade.dll</PackagePath>
-      <Modified>2021-11-01T08:56:14.046</Modified>
+      <Modified>2021-11-03T12:03:43.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Heriberto\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -85,137 +85,252 @@
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.756</Modified>
+      <Modified>2021-11-03T12:41:01.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.760</Modified>
+      <Modified>2021-11-03T12:41:01.982</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.765</Modified>
+      <Modified>2021-11-03T12:41:02.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.768</Modified>
+      <Modified>2021-11-03T12:41:00.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.775</Modified>
+      <Modified>2021-11-03T12:41:01.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.778</Modified>
+      <Modified>2021-11-03T12:41:01.146</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.781</Modified>
+      <Modified>2021-11-03T12:41:03.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:03.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:03.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.785</Modified>
+      <Modified>2021-11-03T12:41:03.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.790</Modified>
+      <Modified>2021-11-03T12:41:03.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.792</Modified>
+      <Modified>2021-11-03T12:41:01.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.795</Modified>
+      <Modified>2021-11-03T12:41:01.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.799</Modified>
+      <Modified>2021-11-03T12:41:01.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.802</Modified>
+      <Modified>2021-11-03T12:41:02.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.805</Modified>
+      <Modified>2021-11-03T12:41:02.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.813</Modified>
+      <Modified>2021-11-03T12:41:02.708</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.816</Modified>
+      <Modified>2021-11-03T12:41:02.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.819</Modified>
+      <Modified>2021-11-03T12:41:02.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.822</Modified>
+      <Modified>2021-11-03T12:41:02.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.825</Modified>
+      <Modified>2021-11-03T12:41:02.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.829</Modified>
+      <Modified>2021-11-03T12:41:02.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:02.507</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.833</Modified>
+      <Modified>2021-11-03T12:41:02.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.839</Modified>
+      <Modified>2021-11-03T12:41:03.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:03.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.841</Modified>
+      <Modified>2021-11-03T12:41:03.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.844</Modified>
+      <Modified>2021-11-03T12:41:03.968</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.850</Modified>
+      <Modified>2021-11-03T12:41:01.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-03T12:41:01.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.854</Modified>
+      <Modified>2021-11-03T12:41:01.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-01T08:55:23.857</Modified>
+      <Modified>2021-11-03T12:41:01.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -227,11 +342,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-11-01T08:56:27.994</Modified>
+      <Modified>2021-11-03T12:41:50.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-11-01T08:56:27.995</Modified>
+      <Modified>2021-11-03T12:41:50.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -247,11 +362,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-11-01T08:56:29.170</Modified>
+      <Modified>2021-11-03T12:41:51.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\AppQuantidade\AppQuantidade\AppQuantidade.UWP\bin\x86\Debug\Core\AppQuantidade.UWP.exe">
       <PackagePath>AppQuantidade.UWP.exe</PackagePath>
-      <Modified>2021-11-01T08:56:33.675</Modified>
+      <Modified>2021-11-03T12:41:53.948</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
